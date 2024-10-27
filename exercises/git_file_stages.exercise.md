@@ -21,7 +21,7 @@ previous state.
    - In PowerShell
      - `Set-Content -Value "1" -Path file.txt`
    - In others
-     - echo 1 > file.txt
+     - `echo 1 > file.txt`
 
 
 ## Task:
