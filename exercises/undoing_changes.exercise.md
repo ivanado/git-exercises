@@ -29,8 +29,8 @@ commits.
 6. Run `git commit --amend`
 7. What happened? What does `git log -p` tell us?
 8. What happens if you run `git commit --amend` again?
-10. Run `echo "foofoo" > foofoo.txt` (or `Set-Content -Value "foofoo" -Path foofoo.txt` in PowerShell)
-11. Run `git add foofoo.txt`
+9. Run `echo "foofoo" > foofoo.txt` (or `Set-Content -Value "foofoo" -Path foofoo.txt` in PowerShell)
+10. Run `git add foofoo.txt`
 11. Run `git commit -m "feature 74"`
 12. How does your working directory look like?
 13. What does your log look like? What does your stage look like?
