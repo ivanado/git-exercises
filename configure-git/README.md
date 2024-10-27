@@ -7,7 +7,7 @@ To make sure the Git configuration is correct, run the following
 git config --list
 ```
 
-The output should contain values for [`user.email`](http://user.email) and [`user.name`](http://user.name) properties.
+The output should contain values for `user.email` and `user.name` properties.
 
 If the props are not set, use the following commands to add your Git name and email to the global configuration
 
