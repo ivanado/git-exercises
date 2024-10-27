@@ -1,7 +1,7 @@
 # Exercise 3: Undoing changes
 
 - `git commit --amend` enables changing of the last commit we made.
-- `git reset` rests the last commit/s we made. More
+- `git reset` resets the last commit/s we made. More
   details [here](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified).
 
 You can use `git log -p` or `git show` to inspect the contents of commits and file changes that were added to the
