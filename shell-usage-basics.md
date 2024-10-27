@@ -1,4 +1,4 @@
-# Shell usage guide
+# Shell usage
 
 ## Paths
 All paths start from `/`
