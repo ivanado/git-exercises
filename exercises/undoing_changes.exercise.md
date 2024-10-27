@@ -29,3 +29,12 @@ commits.
 6. Run `git commit --amend`
 7. What happened? What does `git log -p` tell us?
 8. What happens if you run `git commit --amend` again?
+10. Run `echo "foofoo" > foofoo.txt` (or `Set-Content -Value "foofoo" -Path foofoo.txt` in PowerShell)
+11. Run `git add foofoo.txt`
+11. Run `git commit -m "feature 74"`
+12. How does your working directory look like?
+13. What does your log look like? What does your stage look like?
+14. Try to run `git reset --soft HEAD~1`
+15. What happens to your working directory, your log and your stage?
+16. Run `git reset --hard HEAD~1`
+17. What happens to your working directory, your log and your stage?
