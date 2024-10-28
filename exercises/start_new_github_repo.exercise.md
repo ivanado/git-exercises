@@ -41,4 +41,4 @@ git push
 
 ### Tips and tricks:
 1. [gh cli](https://cli.github.com/) - command line interface for GitHub
-1. [Choosing](https://choosealicense.com/) an open source license
+1. [Choosing license](https://choosealicense.com/) an open source license
