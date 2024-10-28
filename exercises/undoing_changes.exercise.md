@@ -32,6 +32,9 @@ commits.
 9. Run `echo "foofoo" > foofoo.txt` (or `Set-Content -Value "foofoo" -Path foofoo.txt` in PowerShell)
 10. Run `git add foofoo.txt`
 11. Run `git commit -m "feature 74"`
+12. Run `echo "foofoofoo" > foofoofoo.txt` (or `Set-Content -Value "foofoofoo" -Path foofoofoo.txt` in PowerShell)
+10. Run `git add foofoofoo.txt`
+11. Run `git commit -m "feature 75"`
 12. How does your working directory look like?
 13. What does your log look like? What does your stage look like?
 14. Try to run `git reset --soft HEAD~1`
