@@ -8,3 +8,4 @@ It is recommended to do the exercises is in the following order:
 2. [Git file stages](exercises/git_file_stages.exercise.md)
 3. [Undoing changes](exercises/undoing_changes.exercise.md) 
 
+5. [Create your repository](exercises/start_new_github_repo.exercise.md)
