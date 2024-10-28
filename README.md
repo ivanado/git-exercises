@@ -4,6 +4,7 @@ This repository is a collection of Git Workshop exercises by [Git Katas](https:/
 
 
 It is recommended to do the exercises is in the following order:
+0. [Configure git](configure-git/README.md)
 1. [Recording changes](exercises/recording_changes.exercise.md) 
 2. [Git file stages](exercises/git_file_stages.exercise.md)
 3. [Undoing changes](exercises/undoing_changes.exercise.md) 
