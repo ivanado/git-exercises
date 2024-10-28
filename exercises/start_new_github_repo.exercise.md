@@ -1,14 +1,7 @@
+# Exercise 5: Create your repository
 
-# Prepare your local machine
-1. Make sure you have **git** installed. You can check by running `git --version` in your terminal
-1. Create a folder for all git-workshop content, name it `git_workshop`. You can do this using your terminal or file explorer.
-``` bash
-# create a folder
-mkdir git_workshop
-cd git_workshop
-```
 
-# Creating your GitHub repository
+# Create your GitHub repository
 1. Log-in to [GitHub](www.github.com)
 1. Go to Repositories -> New
     - Name it `my-demo-repo`

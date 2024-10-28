@@ -29,3 +29,12 @@ You can use notepad editor in Windows:
 ```bash 
 git config --global core.editor notepad
 ```
+
+### Create a folder for this workshop
+Create a folder for workshop-related content, name it `git_workshop`. You can do this using your terminal or file explorer.
+
+``` bash
+# create a folder
+mkdir git_workshop
+cd git_workshop
+```
