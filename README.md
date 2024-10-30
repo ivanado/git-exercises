@@ -12,3 +12,6 @@ It is recommended to do the exercises is in the following order:
 4. [Fetching and Pulling from remote repo](exercises/fetch_and_pull.exercise.md)
 
 5. [Create your repository](exercises/start_new_github_repo.exercise.md)
+
+# dodajem novi komentar u readme!
+cao Trokut!
