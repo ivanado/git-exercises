@@ -12,6 +12,7 @@ If you have not yet done the basic git configuration look at the [git config](..
 
 1. Use `git status` to see which branch you are on.
 2. What does `git log` look like?
+filip: predivno!
 3. Create a file
 4. What does the output from `git status` look like now?
 5. `add` the file to the staging area
