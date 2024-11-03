@@ -1,7 +1,11 @@
 {
     "recommendations": [
         "mhutchie.git-graph",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "marp-team.marp-vscode",
+        "bierner.markdown-mermaid"
+        
+        
     ]
 }
 
