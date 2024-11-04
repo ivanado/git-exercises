@@ -1,6 +1,3 @@
-# Create your repository
-
-
 # Create your GitHub repository
 1. Log-in to [GitHub](www.github.com)
 1. Go to Repositories -> New
