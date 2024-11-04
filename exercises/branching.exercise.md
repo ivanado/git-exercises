@@ -2,7 +2,7 @@
 
 > ***If you prefer do the excercse in Visual Studio Code***
 
-If you have not yet create a repository and clone it on our machine following the steps from [0](../exercises/create_new_github_repo.exercise.md).
+For this exercise you need only the local repository
 
 Usefull commands:
 -  `git checkout` will make you switch from one branch to another.
@@ -17,7 +17,9 @@ Usefull commands:
 
 ## Setup:
 
-1. in your local repository run the following
+1. Create new `exercise-1` working directory
+2. In the working directory initialize a local `excercise-1` git repository
+3. Run the following commands:
  - `echo "dummy" > dummy.txt`
  - `git add dummy.txt`
  - `git commit -m "dummy commit"`
