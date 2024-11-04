@@ -3,8 +3,8 @@
 > ***If you prefer do the excercse in Visual Studio Code***
 
 If you have not yet create a repository and clone it on our machine following the steps from [0](../exercises/create_new_github_repo.exercise.md).
-In this exerise git cannot figure out how to merge the content added on `branch1` with the content on `main`.
 
+In this exerise git cannot figure out how to merge the content added on `conflict-branch` with the content on `main`.
 Both changes need to be in `main` when you're done.
 
 
