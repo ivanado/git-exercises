@@ -40,3 +40,4 @@ Both changes need to be in `main` when you're done.
 3. Fix the conflict with your favorite editor.
 4. Follow the instructions in `git status` to complete the merge.
 5. What does `git log --oneline --graph` show?
+6. push the changes to your remote repo `git push origin main`
