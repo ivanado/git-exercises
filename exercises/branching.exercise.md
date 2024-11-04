@@ -20,11 +20,11 @@ Usefull commands:
 1. Create new `exercise-1` working directory
 2. In the working directory initialize a local `excercise-1` git repository
 3. Run the following commands:
- - `echo "dummy" > dummy.txt`
- - `git add dummy.txt`
- - `git commit -m "dummy commit"`
- - `git checkout -b my-first-branch`
- - `git checkout main`
+    - `echo "dummy" > dummy.txt`
+    - `git add dummy.txt`
+    - `git commit -m "dummy commit"`
+    - `git checkout -b my-first-branch`
+    - `git checkout main`
 
 
 ## Task:
