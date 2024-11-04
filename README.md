@@ -14,5 +14,5 @@ It is recommended to do the exercises is in the following order:
 5. [Create your repository](exercises/start_new_github_repo.exercise.md)
 
 ## Day 2
-0. [Create your repository on GitHub](exercises/start_new_github_repo.exercise.md)
+0. [Create your repository on GitHub](exercises/create_new_github_repo.exercise.md)
 1. [Branches](exercises/branching.exercise.md)
