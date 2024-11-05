@@ -16,8 +16,7 @@ It is recommended to do the exercises is in the following order:
 ## Day 2
 0. [Create your repository on GitHub](exercises/create_new_github_repo.exercise.md)
 1. [Branches](exercises/branching.exercise.md)
-
-4. [Resolving conflicts](exercises/resolving_conflicts.exercise.md)
-5. [Cherry picking](exercises/cherry_picking.exercise.md)
 7. [Merge to main](exercises/merge_to_main.md)
 8. [Merge or rebase](exercises/merge_or_rebase.md)
+4. [Resolving conflicts](exercises/resolving_conflicts.exercise.md)
+5. [Cherry picking](exercises/cherry_picking.exercise.md)
