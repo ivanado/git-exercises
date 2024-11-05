@@ -3,6 +3,8 @@
 
 > ***If you prefer do the excercse in Visual Studio Code***
 
+More info about [merging and rebasing](https://fabisiakradoslaw.medium.com/understand-how-does-git-rebase-work-and-compare-with-git-merge-and-git-interactive-rebase-cce2c9775e43)
+
 For this exercise you only need the local repository
 
 ## Setup:
