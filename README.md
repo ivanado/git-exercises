@@ -18,3 +18,4 @@ It is recommended to do the exercises is in the following order:
 1. [Branches](exercises/branching.exercise.md)
 
 4. [Resolving conflicts](exercises/resolving_conflicts.exercise.md)
+5. [Cherry picking](exercises/cherry_picking.exercise.md)
