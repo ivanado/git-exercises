@@ -1,6 +1,30 @@
 ## Exercise 1: Branches
 
 > ***If you prefer do the excercse in Visual Studio Code***
+```mermaid
+ gitGraph
+       commit id: "1"
+       commit id: "2"
+       branch feature/some-super-feaure
+       checkout feature/some-super-feaure
+       commit id: "3"
+       checkout main
+       commit id: "4"
+       checkout feature/some-super-feaure
+       branch feature/some-very-super-feaure
+       checkout feature/some-very-super-feaure
+       commit id: "5"
+       checkout main
+       commit id: "6"
+       checkout feature/some-super-feaure
+       commit id: "7"
+       checkout main
+       merge feature/some-super-feaure id: "merge commit"
+       checkout feature/some-very-super-feaure
+       commit id: "8"
+       checkout main
+       commit id: "9"
+```
 
 For this exercise you need only the local repository
 
