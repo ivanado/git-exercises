@@ -29,12 +29,16 @@ gitGraph TB:
     
     checkout feature
      commit id: "E"
-    commit id: "F"
-    commit id: "G"
-    commit id: "H" 
      checkout main
     commit id: "C"
+    checkout feature
+    commit id: "F"
+     checkout main
     commit id: "D"
+    checkout feature
+    commit id: "G"
+    commit id: "H" 
+    
 ```
 
 2. The _feature_ branch and the _main_ branch have progressed with different commits. Using the `cherry-pick`  command add commits F and G and onto the _main_ branch, so that Git history looks like this:
@@ -48,19 +52,23 @@ gitGraph TB:
     } 
 } }%%
 gitGraph TB:
-    checkout main
+   checkout main
     commit id: "A"
     commit id: "B"
     branch feature 
     
     checkout feature
      commit id: "E"
-    commit id: "F"
-    commit id: "G"
-    commit id: "H" 
      checkout main
     commit id: "C"
+    checkout feature
+    commit id: "F"
+     checkout main
     commit id: "D"
+    checkout feature
+    commit id: "G"
+    commit id: "H" 
+    checkout main
     cherry-pick id: "F"
     cherry-pick id:"G"
 ```
